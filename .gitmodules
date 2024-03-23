@@ -1,15 +1,6 @@
-[submodule "PythonUtils"]
-	path = PythonUtils
-	url = git@github.com:rinkaaan/PythonUtils.git
 [submodule "MediaApi"]
 	path = MediaApi
 	url = git@github.com:rinkaaan/MediaApi.git
-[submodule "MediaApiTests"]
-	path = MediaApiTests
-	url = git@github.com:rinkaaan/MediaApiTests.git
 [submodule "MediaApp"]
 	path = MediaApp
 	url = git@github.com:rinkaaan/MediaApp.git
-[submodule "MediaModels"]
-	path = MediaModels
-	url = git@github.com:rinkaaan/MediaModels.git
